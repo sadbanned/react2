@@ -1,0 +1,33 @@
+.MainIn{
+    position: absolute;
+    width: 1366px;
+    height: 778px;
+    background: linear-gradient(180deg, #FFFFFF 0%, #CEE8B8 100%);
+}
+
+.bubble1{
+    z-index: 1;
+    position: absolute;
+    left: 565px;
+    top: -52px;
+}
+
+h1{
+    font-size: 64px;
+    margin-top: 250px;
+    padding-left: 32px;
+    font-weight: 500;
+}
+
+p{
+    padding-left: 32px;
+    width: 540px;
+    margin-top: -20px;
+}
+
+.plants1{
+    position: absolute;
+    z-index: 2;
+    left: 620px;
+    top: 225px;
+}

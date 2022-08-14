@@ -1,0 +1,14 @@
+.header {
+  position: absolute;
+  margin: 0 auto;
+  width: 1366px;
+  padding: 30px;
+  display: inline-flex;
+  list-style-type: none;
+  margin-bottom: 40px
+}
+
+.header li {
+  margin-right: -435px;
+  margin-top: 15px;
+}
