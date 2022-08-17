@@ -1,5 +1,5 @@
 import { Header } from "../../components/header/Header";
-// import { Services } from "../../components/services/Services";
+import { Cotalog } from "../../components/header/CotalogInfo";
 import './MainPage.css'
 import bubble1 from './images/Group10.svg'
 import plants1 from './images/Mask group.png'
@@ -8,7 +8,7 @@ function MainPage (){
     return(
         <div className="MainIn">
             <Header/>
-            {/* <Services services='services from main page'/> */}
+            {/* <Cotalog/> */}
 
             <div className="MainInside">
             <h1>Summer Plants</h1>

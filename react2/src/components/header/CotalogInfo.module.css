@@ -1,0 +1,13 @@
+.links{
+    font-size: 22px;
+    z-index: 2;
+    list-style-type: none;
+    margin-left: -20px;
+    margin-top: 20px;
+    
+}
+
+.links:hover{
+    position: relative;
+    font-weight: bold;
+}

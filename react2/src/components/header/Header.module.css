@@ -1,5 +1,5 @@
 .links{
-    margin-left: 510px;
+    margin-left: 700px;
     font-size: 28px;
     z-index: 2;
 }
@@ -27,8 +27,18 @@
     border-radius: 10px;
     border: #C1DEA8;
 }
-/* 
-@font-face {
-    font-family: "UnicaOne";
-    src: url('/react2/src/fonts/UnicaOne-Regular.ttf')
-   } */
+
+   .on_links{
+    position: absolute;
+    margin-left: 651px;
+    top: 50px;
+    font-size: 28px;
+    z-index: 2;
+    border: 0;
+    padding: 0;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.on_links:hover{
+    color: #EFEFEF;
+}

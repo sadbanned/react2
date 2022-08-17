@@ -9,6 +9,19 @@
 }
 
 .header li {
-  margin-right: -435px;
+  margin-right: -615px;
   margin-top: 15px;
+}
+
+.cotalog{
+  position: absolute;
+
+  width: 200px;
+  height: 250px;
+  background: rgba(255, 255, 255, 0.700);
+  border-radius: 15px;
+  right: 440px;
+  top: 75px;
+  z-index: 5;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.342); 
 }
